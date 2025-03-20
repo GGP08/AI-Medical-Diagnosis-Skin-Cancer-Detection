@@ -27,5 +27,5 @@ Due to file size limitations, the dataset is hosted on Google Drive.
 
 ### 🔹 How to Use  
 1. **Download** `archive.zip` from the above link.  
-2. **Extract** it into your project directory. The final folder structure should be:  
+2. **Extract** it into your project directory.  
 
